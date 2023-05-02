@@ -142,7 +142,6 @@ p {
 @media screen and (max-width: 600px) {
   .container {
     font-size: 14px;
-    width: fit-content;
   }
 
   .poster {
